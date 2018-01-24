@@ -1,5 +1,4 @@
-# anet3030
-Anet 3030
+# Anet 3030
 
 Este projecto partiu da ideia de modificar uma impressora 3d de baixo custo, aproveitando todos os conceitos da Prusa MK2.
 Para este projecto utilizei uma impressora 3D Anet A8, por ser barata e toda a electrónica aproveitável.
