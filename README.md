@@ -22,3 +22,5 @@ Material used:
 -	Electronics and hardware from the donor.
 -	Printed parts
 
+# VORON  
+![](https://raw.githubusercontent.com/mzbotreprap/VORON/master/Resources/img/voron_assembly.png)
