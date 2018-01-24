@@ -5,10 +5,10 @@ Para este projecto utilizei uma impressora 3D Anet A8, por ser barata e toda a e
 A ideia nesta transformação, é demostrar ser possível transformar qualquer impressora “lowcost” em algo substancialmente melhor!
 
 Material utilizado:
-•	Perfis técnicos 3030 com canal de 8mm.
-•	Parafusos e porcas M3, M4, M6 e M8.
-•	Electrónica e hardware aproveitados da Anet A8.
-•	Peças impressas.
+-	Perfis técnicos 3030 com canal de 8mm.
+-	Parafusos e porcas M3, M4, M6 e M8.
+-	Electrónica e hardware aproveitados da Anet A8.
+-	Peças impressas.
 
 ==========================================================
 
@@ -17,8 +17,8 @@ For this project I used a 3D Anet A8 printer, because it is cheap and all the el
 The idea of this transformation is to prove that it is possible to turn any lowcost printer into something substantially better!
 
 Material used:
-•	Technical profiles 3030 with 8mm channel.
-•	M3, M4, M6 and M8 bolts and nuts.
-•	Electronics and hardware from the donor.
-•	Printed parts
+-	Technical profiles 3030 with 8mm channel.
+-	M3, M4, M6 and M8 bolts and nuts.
+-	Electronics and hardware from the donor.
+-	Printed parts
 
