@@ -23,4 +23,4 @@ Material used:
 -	Printed parts
 
 # ANET 3030  
-![](https://raw.githubusercontent.com/mzbotreprap/VORON/master/Resources/img/voron_assembly.png)
+![](https://github.com/jbaiao/anet3030/blob/master/Documentation/anet3030assemby.png)
